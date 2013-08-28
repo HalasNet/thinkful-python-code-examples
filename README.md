@@ -1,4 +1,17 @@
 pip-code-examples
 =================
 
-Code Examples for Thinkful's Python Class
+# Code Examples Thinkful's Programming in Python Course
+
+## Purpose
+This repository is for mentors in the Programming in Python course to store and share code samples they create to demonstrate programming concepts to students.
+
+## How to Use
+First clone this repo. Then, have a look at existing code samples. If you see code that you think would be helpful to use in your session, use it!
+
+When you have a new code sample, add it to the repository. First check to see if there is already a folder that is appropriate to hold your file(s). If so, add your file(s) to the existing folder. If not, create an appropriately named new folder and add your file(s) to it.
+
+When you want to share a code sample with your student, feel free to send them a link to the individual file on Github. This repo is public, so anyone can access and clone it, and it's fine if students choose to do so, but it's probably more productive to send students to particular files in this repo.
+
+
+
