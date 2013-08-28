@@ -13,5 +13,7 @@ When you have a new code sample, add it to the repository. First check to see if
 
 When you want to share a code sample with your student, feel free to send them a link to the individual file on Github. This repo is public, so anyone can access and clone it, and it's fine if students choose to do so, but it's probably more productive to send students to particular files in this repo.
 
+## Write Access
+If you are a Thinkful student or a member of the general public, you can look at any file in this repo.
 
-
+On the other hand, if you're a Thinkful Mentor and would like write access to this repo, you'll need to request to be added as a collaborator.  Send an email to *grae at thinkful dot com* to request access, if you don't have it already.
