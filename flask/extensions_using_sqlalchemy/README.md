@@ -4,10 +4,10 @@
 
 The codebase:
 
-- __init__.py - An example app.  Creates an instance of our model.
+- \_\_init\_\_.py - An example app.  Creates an instance of our model.
 - models.py - Contains database and extension initialization, as well as our model.
-- sqla/__init__.py - A mock object which looks a little bit like the Flask-SQLAlchemy module.  Used because I'm too lazy to set up a virtualenv.
-- flask_permissions/__init__.py - The extension we are writing.  Provides some models which can be created or extended, and stored in the database.
+- sqla/\_\_init\_\_.py - A mock object which looks a little bit like the Flask-SQLAlchemy module.  Used because I'm too lazy to set up a virtualenv.
+- flask_permissions/\_\_init\_\_.py - The extension we are writing.  Provides some models which can be created or extended, and stored in the database.
 - flask_permissions/permissions.py - Provides the extension object.
 - flask_permissions/models.py - The models which we want to supply.
 
