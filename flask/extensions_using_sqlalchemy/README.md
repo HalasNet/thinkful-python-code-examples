@@ -2,7 +2,7 @@
 
 **Warning** If you're eating your breakfast, look away now - this technique is full of ugly
 
-The codebase:
+## The Codebase
 
 - \_\_init\_\_.py - An example app.  Creates an instance of our model.
 - models.py - Contains database and extension initialization, as well as our model.
@@ -11,7 +11,7 @@ The codebase:
 - flask_permissions/permissions.py - Provides the extension object.
 - flask_permissions/models.py - The models which we want to supply.
 
-The trick:
+## The Trick
 
 We have to have access to an instantiated db object in order to create the models for our extension, but we don't know what it's called, or where it lives.  So how do we access it, and create the models?
 
